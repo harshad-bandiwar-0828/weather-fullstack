@@ -71,17 +71,10 @@ A demo video of the working application is available at:
 
 **Harshad Purushottam Bandiwar**  
 
-🔗 GitHub: https://github.com/YOUR_USERNAME  
-🔗 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/  
+🔗 GitHub: https://github.com/harshad-bandiwar-0828
+🔗 LinkedIn:  https://www.linkedin.com/in/harshad-bandiwar-902367345/  
 
 ---
-## 💻 Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
 
 ⭐ If you like this project, don’t forget to **star the repository**!
 💬 Feedback and suggestions are always welcome!
