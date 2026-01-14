@@ -48,29 +48,11 @@ A demo video of the working application is available at:
 
 ---
 
-## 💻 Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
-
 ## 📝 Usage
 
 - 🔍 Enter a city name to get current weather details  
 - 🌡️ View temperature, humidity, and wind speed  
 - 📊 Check the 5-day forecast  
-
----
-
-## ⚠️ Important Notes
-
-- ❌ This project **cannot be fully hosted on GitHub Pages** because it requires a Node.js backend.
-- ✅ To deploy the full-stack version, use:
-  - Render
-  - Railway
-  - Vercel
 
 ---
 
@@ -93,7 +75,14 @@ cd YOUR_REPO_NAME
 🔗 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/  
 
 ---
+## 💻 Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+cd YOUR_REPO_NAME
 
 ⭐ If you like this project, don’t forget to **star the repository**!
-
 💬 Feedback and suggestions are always welcome!
+
